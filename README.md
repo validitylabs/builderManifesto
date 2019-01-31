@@ -9,3 +9,4 @@ In reflection of this we will establish a new Decentralised Association, complia
 The association will be open to individual and company members who are building decentralised and Web3 technologies, irrespective of individual platform or blockchain.
 
 Signed by
+[full list of names](https://github.com/validitylabs/builderManifesto/issues/1)
